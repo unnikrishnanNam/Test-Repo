@@ -1,3 +1,4 @@
 # This is a Test Repo
-> Changes where made through GitHub
+
+> This new line was added from VSCode
 > This repo is solely used for testing purposes only
